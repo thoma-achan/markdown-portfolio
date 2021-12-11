@@ -1,5 +1,7 @@
-<p>
-  In HTML 5, what was previously called
-  <em>block-level</em> content is now called
-  <em>flow</em> content.
-</p>
+*This text will be italic*
+_This will also be italic_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
